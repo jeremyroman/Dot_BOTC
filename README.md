@@ -2,6 +2,8 @@
 
 This is the Discord bot used to organize and supervise live games on the [Unofficial Blood on the Clocktower server](https://discord.gg/botc).
 
+![test status](https://github.com/JackKBroome/Dot_BOTC/actions/workflows/test.yml/badge.svg?branch=main&event=push)
+
 ## Setup
 
 1. Install a recent version of [Python](https://python.org/).
